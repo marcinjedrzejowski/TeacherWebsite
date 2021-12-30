@@ -8,6 +8,11 @@
   padding: 10px;
 }
 
+ul {
+  list-style: none; 
+  padding: 0px !important;
+}
+
 .paragraph-light {
   opacity: 0.6;
 }
@@ -140,6 +145,11 @@ img {
 
   .container {
     padding: 20px;
+  }
+
+  ul {
+    list-style: none; 
+    padding: 0px !important;
   }
 
   .headline {
@@ -276,6 +286,11 @@ img {
 
   .container {
     padding: 30px;
+  }
+
+  ul {
+    list-style: none; 
+    padding: 0px !important;
   }
 
   .paragraph-light {
@@ -415,6 +430,11 @@ img {
     padding: 40px;
   }
 
+  ul {
+    list-style: none; 
+    padding: 0px !important;
+  }
+
   .paragraph-light {
     opacity: 0.6;
   }
@@ -551,6 +571,11 @@ img {
     padding: 50px;
   }
 
+  ul {
+    list-style: none; 
+    padding: 0px !important;
+  }
+
   .paragraph-light {
     opacity: 0.6;
   }
@@ -685,6 +710,11 @@ img {
 
   .container {
     padding: 60px;
+  }
+
+  ul {
+    list-style: none; 
+    padding: 0px !important;
   }
 
   .paragraph-light {
